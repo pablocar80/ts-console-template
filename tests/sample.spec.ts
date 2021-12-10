@@ -1,3 +1,4 @@
 test("dummy test", () => {
-    expect(2 + 2).toBe(4);
+    const x = 2 + 2;
+    expect(x).toBe(4);
 })
